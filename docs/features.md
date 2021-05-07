@@ -1,11 +1,11 @@
 ---
 date: '2019-07-10T07:00:00.000Z'
 title: Operating Systems
-last_edited: '2021-01-13T14:35:39.779Z'
+last_edited: '2021-05-07T13:39:00.583Z'
 ---
 An **operating system** (**OS**) is [system software](https://en.wikipedia.org/wiki/System_software "System software") that manages [computer hardware](https://en.wikipedia.org/wiki/Computer_hardware "Computer hardware"), [software](https://en.wikipedia.org/wiki/Computer_software "Computer software") resources, and provides common [services](https://en.wikipedia.org/wiki/Daemon_(computing) "Daemon (computing)") for [computer programs](https://en.wikipedia.org/wiki/Computer_program "Computer program").
 
-[Time-sharing](https://en.wikipedia.org/wiki/Time-sharing "Time-sharing") operating systems [schedule tasks](https://en.wikipedia.org/wiki/Scheduler_(computing) "Scheduler (computing)") for efficient use of the system and may also include accounting software for cost allocation of [processor time](https://en.wikipedia.org/wiki/Scheduling_(computing) "Scheduling (computing)"), [mass storage](https://en.wikipedia.org/wiki/Mass_storage "Mass storage"), printing, and other resources.
+[Time-sharing](https://en.wikipedia.org/wiki/Time-sharing "Time-sharing") operating systems [schedule tasks](https://en.wikipedia.org/wiki/Scheduler_(computing) "Scheduler (computing)") for **efficient** use of the system and may also include accounting software for cost allocation of [processor time](https://en.wikipedia.org/wiki/Scheduling_(computing) "Scheduling (computing)"), [mass storage](https://en.wikipedia.org/wiki/Mass_storage "Mass storage"), printing, and other resources.
 
 For hardware functions such as [input and output](https://en.wikipedia.org/wiki/Input_and_output "Input and output") and [memory allocation](https://en.wikipedia.org/wiki/Memory_allocation "Memory allocation"), the operating system acts as an intermediary between programs and the computer hardware, although the application code is usually executed directly by the hardware and frequently makes [system calls](https://en.wikipedia.org/wiki/System_call "System call") to an OS function or is [interrupted](https://en.wikipedia.org/wiki/Interrupt "Interrupt") by it. Operating systems are found on many devices that contain a computer – from cellular phones and video game consoles to [web servers](https://en.wikipedia.org/wiki/Web_server "Web server") and [supercomputers](https://en.wikipedia.org/wiki/Supercomputer "Supercomputer").
 
